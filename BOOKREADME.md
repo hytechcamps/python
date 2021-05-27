@@ -7,12 +7,12 @@ Try to create a drawing using [this Turtle tool](https://replit.com/@HylandOutre
 ## Programming with Python PowerPoint Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/python/ProgrammingWithPython.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-[Video](https://app.sharebase.com/#/document/10419591/share/3-3p3k6kaqxXjbHc6gHZt86RpueI4)
+<iframe width="100%" height="450px" src="https://www.youtube.com/embed/GqhQ6R7mK8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Code-Along Activity
 Follow [these instructions](TurtleCodeAlong.md) to build a basic Python Turtle program.
 
-[Video](https://app.sharebase.com/#/document/10419736/share/3-R3-6HBIjXGeQnig5lEZSyMJcAaQ)
+<iframe width="100%" height="450px" src="https://www.youtube.com/embed/TpRnlfyHjiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Self-Paced Work
 Work on the [Challenges](TurtleChallenges.md) after the code-along activity. Additionally, check out [these examples](TurtleExamples.md) to see more of what is possible with Python and turtle graphics!
