@@ -16,11 +16,13 @@ The students should have a chance to attempt the [challenges](TurtleChallenges.m
 ## Sharing Work
 Students can save and share their work by following [these instructions](SharingWork.md).
 
+If there is nothing else to do and the students are not active, feel free to end the workshop early.
+
 ## Suggested Schedule
 
 | Activity | Time |
 |-|-|
-| Icebreaker | 10m |
-| Lecture | 10m |
+| Icebreaker | 15m |
+| Lecture | 15m |
 | Follow-Along | 60m |
-| Challenges & Sharing | 10m |
+| Challenges & Sharing | 30m |
