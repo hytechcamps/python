@@ -15,7 +15,7 @@ Follow [these instructions](TurtleCodeAlong.md) to build a basic Python Turtle p
 <iframe width="100%" height="450px" src="https://www.youtube.com/embed/TpRnlfyHjiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Self-Paced Work
-Work on the [Challenges](TurtleChallenges.md) after the code-along activity. Additionally, check out [these examples](TurtleExamples.md) to see more of what is possible with Python and turtle graphics!
+Work on the [Turtle Challenges](TurtleChallenges.md) after the code-along activity. Additionally, check out [these examples](TurtleExamples.md) to see more of what is possible with Python and turtle graphics!
 
 ## Sharing Turtle Projects
 At any point, share your work with the group by following [these instructions](SharingWork.md)!
