@@ -7,6 +7,9 @@ Give students some time to play around with the [turtle drawing tool](https://re
 ## Lecture
 The lecture uses a [PowerPoint presentation](ProgrammingWithPython.pptx) to introduce students to Python.
 
+## Kahoot Quiz
+Facilitate the [Kahoot quiz](https://create.kahoot.it/share/python-quiz/e5a7b299-5de3-4020-8fb3-ad4bffa9e78f) to test student retention from the lecture. Most of the content covered in the lecture will not be directly relevant to the code-along activity, so the results are not incredibly important.
+
 ## Code-Along Activity
 For the [code-along activity](TurtleCodeAlong.md), get into Python and start building something with turtle graphics.
 
@@ -24,5 +27,7 @@ If there is nothing else to do and the students are not active, feel free to end
 |-|-|
 | Icebreaker | 15m |
 | Lecture | 15m |
-| Follow-Along | 60m |
+| Kahoot | 10m |
+| Break | 5m |
+| Follow-Along | 45m |
 | Challenges & Sharing | 30m |
