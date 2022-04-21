@@ -1,6 +1,9 @@
 # Programming with Python Workshop
 This workshop introduces students to the [Python](https://www.python.org/) programming language through Turtle Graphics.
 
+### Description
+Students will learn the basics of computer science using the Python programming language. Python is a popular multi-purpose language used by professional and hobbyist developers alike. The goal is for students to gain a high-level overview of essential programming topics while creating fun programs in Python.
+
 ## Icebreaker
 Give students some time to play around with the [turtle drawing tool](https://replit.com/@HylandOutreach/Turtle-Drawing). At the end of that time, allow volunteers to share their drawings. Other students should have an opportunity to introduce themselves as well.
 
