@@ -20,9 +20,7 @@ For the [code-along activity](TurtleCodeAlong.md), get into Python and start bui
 The students should have a chance to attempt the [challenges](TurtleChallenges.md). They can also look at the [examples](TurtleExamples.md) for inspiration.
 
 ## Sharing Work
-Students can save and share their work by following [these instructions](SharingWork.md).
-
-If there is nothing else to do and the students are not active, feel free to end the workshop early.
+Students can save and share their work by following [these instructions](SharingWork.md). Responses should be viewable [here](https://docs.google.com/spreadsheets/d/1e5H-Zyl8yPrZ1bwpig63lj7-j8sDnSK10walWrbBdtw/edit?usp=sharing).
 
 ## Suggested Schedule
 

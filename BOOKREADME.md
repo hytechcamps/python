@@ -2,7 +2,7 @@
 Welcome to the Python workshop session! The goal of this session is to create a [Python](https://www.python.org/) program using [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics).
 
 ## Icebreaker
-Try to create a drawing using [this Turtle tool](https://replit.com/@HylandOutreach/Turtle-Drawing)!
+Try to create a drawing using this Turtle tool: [https://replit.com/@HylandOutreach/Turtle-Drawing](https://replit.com/@HylandOutreach/Turtle-Drawing)
 
 ## Programming with Python PowerPoint Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/python/ProgrammingWithPython.pptx' width='100%' height='450px' frameborder='0'></iframe>
@@ -10,12 +10,13 @@ Try to create a drawing using [this Turtle tool](https://replit.com/@HylandOutre
 <iframe width="100%" height="450px" src="https://www.youtube.com/embed/GqhQ6R7mK8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Code-Along Activity
-Follow [these instructions](TurtleCodeAlong.md) to build a basic Python Turtle program.
+[Click here for the code-along instructions.](TurtleCodeAlong.md)
 
 <iframe width="100%" height="450px" src="https://www.youtube.com/embed/TpRnlfyHjiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Self-Paced Work
-Work on the [Turtle Challenges](TurtleChallenges.md) after the code-along activity. Additionally, check out [these examples](TurtleExamples.md) to see more of what is possible with Python and turtle graphics!
+- [Click here for to see the Turtle Challenges after completing the code-along activity.](TurtleChallenges.md)
+- [Click here for some examples to see more of what is possible with Python and turtle graphics!](TurtleExamples.md)
 
 ## Sharing Turtle Projects
-At any point, share your work with the group by following [these instructions](SharingWork.md)!
+At any point, [click here to share your work with the group by following the instructions](SharingWork.md)!
