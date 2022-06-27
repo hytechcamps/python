@@ -8,7 +8,7 @@ Setup using **Replit** is fairly simple.
 
 1. Go to the TurtleStart Replit project: [https://replit.com/@HylandOutreach/TurtleStart](https://replit.com/@HylandOutreach/TurtleStart)
 1. Fork the project, and make sure to log in!
-  - Use **hylandstudent** as the username and **CodingIsFun1!** as the password 
+  - Use **hylandstudent** as the username and **Learn2Code!** as the password 
   - It may be necessary to click the "Fork" button, then the "Log in" link, then enter the credentials, then click the "Fork" button again
 1. In the code section, add the following line to _import_ everything from the **turtle** library:
     ```py
