@@ -4,6 +4,12 @@ This workshop introduces students to the [Python](https://www.python.org/) progr
 ### Description
 Students will learn the basics of computer science using the Python programming language. Python is a popular multi-purpose language used by professional and hobbyist developers alike. The goal is for students to gain a high-level overview of essential programming topics while creating fun programs in Python.
 
+### Videos
+There are videos for the camp available here:
+
+- [Lecture](https://www.youtube.com/watch?v=GqhQ6R7mK8k)
+- [Code-Along](https://www.youtube.com/watch?v=TpRnlfyHjiA)
+
 ## Icebreaker
 Give students some time to play around with the [turtle drawing tool](https://replit.com/@HylandOutreach/Turtle-Drawing). At the end of that time, allow volunteers to share their drawings. Other students should have an opportunity to introduce themselves as well.
 
